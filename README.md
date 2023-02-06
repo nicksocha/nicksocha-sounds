@@ -22,7 +22,7 @@ The idea came from [JavaScript Drum Kit](https://www.youtube.com/watch?v=VuN8qwZ
 
 - (7) Credit to [Matt Laufenberg](https://www.youtube.com/channel/UCfxdHuwHM7BNjaF3pmEwzkQ) on [YouTube](https://www.youtube.com/) and [Arsenio Hall](https://en.wikipedia.org/wiki/Arsenio_Hall) for the "Randy Watson" [Clip](https://youtu.be/LRZ4FEuAEZA?t=100).
 
-- (8) Credit to [Flywheel](https://getflywheel.com/) for the "Site Down" [Clip](https://getflywheel.com/white-label/?wvideo=e96dfk0xyo).
+- (8) Credit to [Flywheel](https://getflywheel.com/) for the "Site Down" Clip.
 
 - (9) Credit to [The Paramount Vault](https://www.youtube.com/channel/UCzMVH2jEyEwXPBvyht8xQNw) on [YouTube](https://www.youtube.com/) and [David Spade](https://en.wikipedia.org/wiki/David_Spade) for the "Niner" [Clip](https://youtu.be/9Ebfc1KJuO4?t=32).
 
