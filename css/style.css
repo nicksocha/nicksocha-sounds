@@ -158,3 +158,14 @@ main {
   }
 }
 /* endGitHub Octocat */
+
+/* startMobile */
+@media screen and (max-width: 900px) {
+  h1 {
+    font-size: calc(10px + 2.5vw);
+  }
+  .keys {
+    margin: 0 25px;
+  }
+}
+/* endMobile */
